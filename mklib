@@ -1,0 +1,18 @@
+	#
+	# library build script for Unix based machines with GCC
+	#
+rm -f libmapm.a mapm*.o
+#
+gcc -c -Wall -O2 mapm*.c
+#
+rm mapmutil.o mapmfmul.o
+#
+#   use better optimizations for these two ....
+#
+gcc -c -Wall -O3 mapmutil.c
+gcc -c -Wall -O3 mapmfmul.c
+#
+ar rc libmapm.a mapm*.o
+#
+rm mapm*.o
+#

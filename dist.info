@@ -1,0 +1,10 @@
+--- This file is part of LuaDist project
+
+name = "mapm"
+version = "4.9.5"
+
+desc = "Mike's Arbitrary Precision Math Library"
+author = "Michael C. Ring"
+license = "MIT"
+url = "http://www.tc.umn.edu/~ringx004/mapm-main.html"
+maintainer = "Peter Kapec"

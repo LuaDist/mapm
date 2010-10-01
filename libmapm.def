@@ -1,0 +1,170 @@
+EXPORTS
+MM_0_5 DATA
+MM_0_85 DATA
+MM_2_PI DATA
+MM_5x_125R DATA
+MM_5x_256R DATA
+MM_5x_64R DATA
+MM_5x_Eight DATA
+MM_5x_Sixteen DATA
+MM_5x_Twenty DATA
+MM_E DATA
+MM_Five DATA
+MM_Four DATA
+MM_HALF_PI DATA
+MM_LOG_10_BASE_E DATA
+MM_LOG_2_BASE_E DATA
+MM_LOG_3_BASE_E DATA
+MM_LOG_E_BASE_10 DATA
+MM_One DATA
+MM_PI DATA
+MM_Ten DATA
+MM_Three DATA
+MM_Two DATA
+MM_Zero DATA
+MM_cpp_min_precision DATA
+MM_lc_2_PI DATA
+MM_lc_HALF_PI DATA
+MM_lc_PI DATA
+MM_lc_PI_digits DATA
+MM_lc_log10 DATA
+MM_lc_log10R DATA
+MM_lc_log2 DATA
+MM_lc_log_digits DATA
+M_4x_cos
+M_4x_do_it
+M_5x_do_it
+M_5x_sin
+M_apm_log_error_msg
+M_apm_normalize
+M_apm_pad
+M_apm_round_fixpt
+M_apm_scale
+M_apm_sdivide
+M_arccos_near_0
+M_arcsin_near_0
+M_arctan_large_input
+M_arctan_near_0
+M_bitrv2
+M_calculate_PI_AGM
+M_cft1st
+M_cftbsub
+M_cftfsub
+M_cftmdl
+M_check_PI_places
+M_check_log_places
+M_cos_to_sin
+M_exp_compute_nn
+M_fast_mul_fft
+M_fast_multiply
+M_fmul_add
+M_fmul_div_conq
+M_fmul_split
+M_fmul_subtract
+M_free_all_add
+M_free_all_cnst
+M_free_all_div
+M_free_all_exp
+M_free_all_fft
+M_free_all_fmul
+M_free_all_pow
+M_free_all_rnd
+M_free_all_set
+M_free_all_stck
+M_free_all_util
+M_get_acos_guess
+M_get_asin_guess
+M_get_cbrt_guess
+M_get_div_rem
+M_get_div_rem_10
+M_get_div_rem_addr
+M_get_log_guess
+M_get_rnd_seed
+M_get_sizeof_int
+M_get_sqrt_guess
+M_get_stack_ptr
+M_get_stack_var
+M_init_trig_globals
+M_init_util_data
+M_limit_angle_to_pi
+M_log_AGM_R_func
+M_log_basic_iteration
+M_log_near_1
+M_log_solve_cubic
+M_long_2_ascii
+M_lowercase
+M_next_power_of_2
+M_pop_mul_int
+M_push_mul_int
+M_raw_cos
+M_raw_exp
+M_raw_sin
+M_rdft
+M_restore_stack
+M_reverse_string
+M_rftbsub
+M_rftfsub
+M_set_to_zero
+M_strposition
+m_apm_absolute_value
+m_apm_add
+m_apm_arccos
+m_apm_arccosh
+m_apm_arcsin
+m_apm_arcsinh
+m_apm_arctan
+m_apm_arctan2
+m_apm_arctanh
+m_apm_cbrt
+m_apm_ceil
+m_apm_compare
+m_apm_copy
+m_apm_cos
+m_apm_cosh
+m_apm_cpp_precision
+m_apm_divide
+m_apm_exp
+m_apm_exponent
+m_apm_factorial
+m_apm_floor
+m_apm_free
+m_apm_free_all_mem
+m_apm_gcd
+m_apm_get_random
+m_apm_init
+m_apm_integer_div_rem
+m_apm_integer_divide
+m_apm_integer_pow
+m_apm_integer_pow_nr
+m_apm_is_even
+m_apm_is_integer
+m_apm_is_odd
+m_apm_lcm
+m_apm_lib_short_version
+m_apm_lib_version
+m_apm_log
+m_apm_log10
+m_apm_multiply
+m_apm_negate
+m_apm_pow
+m_apm_reciprocal
+m_apm_round
+m_apm_set_double
+m_apm_set_long
+m_apm_set_random_seed
+m_apm_set_string
+m_apm_sign
+m_apm_significant_digits
+m_apm_sin
+m_apm_sin_cos
+m_apm_sinh
+m_apm_sqrt
+m_apm_subtract
+m_apm_tan
+m_apm_tanh
+m_apm_to_fixpt_string
+m_apm_to_fixpt_stringex
+m_apm_to_fixpt_stringexp
+m_apm_to_integer_string
+m_apm_to_string
+m_apm_trim_mem_usage
