@@ -1,0 +1,37 @@
+type = "x86"
+arch = "Windows"
+author = "Michael C. Ring"
+desc = "Mike's Arbitrary Precision Math Library"
+name = "mapm"
+maintainer = "Peter Kapec"
+files = {
+Runtime = {
+[[bin\libmapm.dll]],
+}
+,
+Documentation = {
+[[share\mapm\doc\\algorithms.used]],
+[[share\mapm\doc\\article.pdf]],
+[[share\mapm\doc\\commentary.txt]],
+[[share\mapm\doc\\cpp_function.ref]],
+[[share\mapm\doc\\function.ref]],
+[[share\mapm\doc\\history.txt]],
+[[share\mapm\doc\\license.txt]],
+[[share\mapm\doc\\README]],
+[[share\mapm\doc\\struct.ref]],
+}
+,
+Library = {
+[[lib\libmapm.dll.a]],
+}
+,
+Header = {
+[[include\m_apm.h]],
+[[include\m_apm_lc.h]],
+}
+,
+}
+
+license = "MIT"
+url = "http://www.tc.umn.edu/~ringx004/mapm-main.html"
+version = "4.9.5"
