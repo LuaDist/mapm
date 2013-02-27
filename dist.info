@@ -1,0 +1,33 @@
+type = "x86_64"
+arch = "Ubuntu"
+author = "Michael C. Ring"
+desc = "Mike's Arbitrary Precision Math Library"
+name = "mapm"
+maintainer = "Peter Kapec"
+files = {
+Runtime = {
+[[lib/libmapm.so]],
+}
+,
+Documentation = {
+[[share/mapm/doc//article.pdf]],
+[[share/mapm/doc//README]],
+[[share/mapm/doc//license.txt]],
+[[share/mapm/doc//algorithms.used]],
+[[share/mapm/doc//history.txt]],
+[[share/mapm/doc//commentary.txt]],
+[[share/mapm/doc//function.ref]],
+[[share/mapm/doc//cpp_function.ref]],
+[[share/mapm/doc//struct.ref]],
+}
+,
+Header = {
+[[include/m_apm.h]],
+[[include/m_apm_lc.h]],
+}
+,
+}
+
+license = "MIT"
+url = "http://www.tc.umn.edu/~ringx004/mapm-main.html"
+version = "4.9.5"
